@@ -1,7 +1,7 @@
 Practical Machine Learning Course Project Report
 ================================================
 
-
+Author : S Atul Sudharshan
 
 Background
 ----------
